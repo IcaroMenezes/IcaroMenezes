@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ikaros_php/"/></a>
 </p>  
 Na visão geral abaixo você encontrará minhas formações:
-<img align="left" height="94px" width="94px" alt="SPTECH" src="https://pbs.twimg.com/profile_images/1462840633400467457/gtKFcsdc_400x400.jpg"/>
-<h4>SPTECH - Análise e Desenvolvimento de Sistemas (2022 - 2023)</h4>
-<p>Linguagens & Tecnologias: HTML, CSS, JavaScript, Java</p>
-</br>
 <img align="left" height="94px" width="94px" alt="Warpnet" src="http://etecperuibe.com.br/wp-content/uploads/2021/02/CPS.jpg"/>
 <h4>ETEC - Logística (2019 - 2021)</h4>
 <p>Metologia Agil, Kanban, M365</ p>
+</br>
+<img align="left" height="94px" width="94px" alt="SPTECH" src="https://pbs.twimg.com/profile_images/1462840633400467457/gtKFcsdc_400x400.jpg"/>
+<h4>SPTECH - Análise e Desenvolvimento de Sistemas (2022 - 2023)</h4>
+<p>Linguagens & Tecnologias: HTML, CSS, JavaScript, Java</p>
 </br></br>
 <p>Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:</p>
 <img align="left" height="94px" width="94px" alt="SPTECH" src="https://cdn.theorg.com/0223d38a-0ef8-4ed7-bd58-4a543422186b_thumb.jpg"/>
