@@ -21,6 +21,8 @@ Na visão geral abaixo você encontrará minhas formações:
 <p>Linguagens & Tecnologias: Angular, TypeScript, Node
 <br><br>
 <h2>Estatísticas</h2>
+
 [![card](https://github-readme-stats.vercel.app/api?username=icaromenezes&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![icaromenezes](https://github-readme-stats.vercel.app/api/top-langs/?username=icaromenezes&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
