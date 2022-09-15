@@ -10,7 +10,7 @@ Na visão geral abaixo você encontrará minhas formações:
 <img align="left" height="94px" width="94px" alt="Warpnet" src="http://etecperuibe.com.br/wp-content/uploads/2021/02/CPS.jpg"/>
 <h4>ETEC - Logística (2019 - 2021)</h4>
 <p>Metologia Agil, Kanban, M365</ p>
-</br>
+</br></br>
 <img align="left" height="94px" width="94px" alt="SPTECH" src="https://pbs.twimg.com/profile_images/1462840633400467457/gtKFcsdc_400x400.jpg"/>
 <h4>SPTECH - Análise e Desenvolvimento de Sistemas (2022 - 2023)</h4>
 <p>Linguagens & Tecnologias: HTML, CSS, JavaScript, Java</p>
