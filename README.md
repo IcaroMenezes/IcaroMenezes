@@ -1,10 +1,8 @@
 <h1>Olá,</h1>
- </p> Meu nome é Icaro Menezes, tenho 18 anos</p>
+ </p> Meu nome é Icaro Menezes, tenho 20 anos</p>
 <p align="left">
   <a href="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-menezes-290a77243" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-menezes-290a77243/" /></a>
-  <a href="https://www.instagram.com/ikaros_php/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ikaros_php/"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-menezes-290a77243/" /></a
 </p>  
 Na visão geral abaixo você encontrará minhas formações:
 <img align="left" height="94px" width="94px" alt="Warpnet" src="http://etecperuibe.com.br/wp-content/uploads/2021/02/CPS.jpg"/>
