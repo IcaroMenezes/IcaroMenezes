@@ -17,7 +17,7 @@ Na visão geral abaixo você encontrará minhas formações:
 <br><br>
 <p>Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:</p>
 <img align="left" height="94px" width="94px" alt="SPTECH" src="https://cdn.theorg.com/0223d38a-0ef8-4ed7-bd58-4a543422186b_thumb.jpg"/>
-<h4>Safra - Estágio | Front-End (2022 - atual)</h4>
+<h4>Safra - Estágio | Front-End (2022 - 2023)</h4>
 <p>Linguagens & Tecnologias: Angular, TypeScript, Node
 <br><br>
 <h2>Estatísticas</h2>
