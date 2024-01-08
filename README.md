@@ -17,10 +17,4 @@ Na visão geral abaixo você encontrará minhas formações:
 <img align="left" height="94px" width="94px" alt="SPTECH" src="https://cdn.theorg.com/0223d38a-0ef8-4ed7-bd58-4a543422186b_thumb.jpg"/>
 <h4>Safra - Estágio | Front-End (2022 - 2023)</h4>
 <p>Linguagens & Tecnologias: Angular, TypeScript, Node
-<br><br>
-<h2>Estatísticas</h2>
-
-[![card](https://github-readme-stats.vercel.app/api?username=icaromenezes&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![icaromenezes](https://github-readme-stats.vercel.app/api/top-langs/?username=icaromenezes&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
