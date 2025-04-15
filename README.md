@@ -1,20 +1,59 @@
-<h1>Olá,</h1>
- </p> Meu nome é Icaro Menezes, tenho 20 anos</p>
-<p align="left">
-  <a href="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-menezes-290a77243" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icaro-menezes-290a77243/" /></a
-</p>  
-Na visão geral abaixo você encontrará minhas formações:
-<img align="left" height="94px" width="94px" alt="Warpnet" src="http://etecperuibe.com.br/wp-content/uploads/2021/02/CPS.jpg"/>
-<h4>ETEC - Logística (2019 - 2021)</h4>
-<p>Metologia Agil, Kanban, M365</ p>
-<br><br>
-<img align="left" height="94px" width="94px" alt="SPTECH" src="https://pbs.twimg.com/profile_images/1462840633400467457/gtKFcsdc_400x400.jpg"/>
-<h4>SPTECH - Análise e Desenvolvimento de Sistemas (2022 - 2023)</h4>
-<p>Linguagens & Tecnologias: HTML, CSS, JavaScript, Java</p>
-<br><br>
-<p>Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:</p>
-<img align="left" height="94px" width="94px" alt="SPTECH" src="https://cdn.theorg.com/0223d38a-0ef8-4ed7-bd58-4a543422186b_thumb.jpg"/>
-<h4>Safra - Estágio | Front-End (2022 - 2023)</h4>
-<p>Linguagens & Tecnologias: Angular, TypeScript, Node
+# Icaro Menezes
+
+**Full-Stack Developer**  
+[LinkedIn](https://www.linkedin.com/in/icaro-dmenezes) • [GitHub](https://github.com/IcaroMenezes) • icarod.menezes@gmail.com
+
+---
+
+## About Me
+
+I'm a passionate Full-Stack Developer focused on building scalable and maintainable web applications. I have experience working across the full development lifecycle—from requirements gathering and planning to coding, testing, and deployment.
+
+Currently expanding my skills in backend architecture and cloud infrastructure, I'm always looking for opportunities to collaborate on innovative projects and deliver impactful solutions.
+
+---
+
+## Skills
+
+- **Frontend:** Angular (JS, V8, V12), TypeScript, React, JavaScript  
+- **Backend:** .NET, Java, Node.js, Python  
+- **Testing:** JEST, Cypress, Unit, Integration, and Performance testing  
+- **Databases:** MySQL, Firebase (NoSQL), Relational & Non-relational DBs  
+- **Cloud & DevOps:** Microsoft Azure, Amazon Web Services (AWS)  
+- **Other:** REST APIs, Git, Agile practices
+
+---
+
+## Experience
+
+### Grupo Safira – *Full-Stack Developer Jr* (Jun 2024 – Mar 2025)
+- Built and maintained scalable software systems.
+- Developed automated testing for increased code reliability (80%+ coverage).
+- Key project: Automated proposal system in partnership with Banco do Brasil, resulting in a 19% lead conversion increase.
+
+### Tech Mahindra – *Technical Support* (2024)
+- Provided L1 and L2 technical support.
+- Resolved incidents and maintained system stability with reduced response times.
+
+### Safra – *IT Intern* (Aug 2022 – Dec 2023)
+- Developed web applications using Angular and .NET.
+- Reduced front-end load times by 57% through code and API optimizations.
+
+---
+
+## Education
+
+- **B.Sc. Systems Analysis and Development** – SPTech (2023)
+
+---
+
+## Certifications
+
+- Node.js: Unit and Integration Testing – Alura (2024)
+
+---
+
+## Let's Connect
+
+Feel free to reach out or collaborate on something great!
 
