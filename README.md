@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Desenvolvimento de aplicações web escaláveis e de fácil manutenção, com experiência em **.NET 6/.NET 8** no back-end e **Angular 8/14** no front-end. Gerenciamento de bancos de dados relacionais e não relacionais (**MongoDB, MySQL, SQL Server**). Desenvolvimento e integração de **REST APIs** com **NestJS**. Implementação de testes automatizados (**TDD**, 80%+ cobertura).[file:16]
+Desenvolvimento de aplicações web escaláveis e de fácil manutenção, com experiência em **.NET 6/.NET 8** no back-end e **Angular 8/14** no front-end. Gerenciamento de bancos de dados relacionais e não relacionais (**MongoDB, MySQL, SQL Server**). Desenvolvimento e integração de **REST APIs** com **NestJS**. Implementação de testes automatizados (**TDD**, 80%+ cobertura).
 
 Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries complexas.
 
@@ -30,17 +30,17 @@ Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries
 - Novas soluções e manutenção com **Angular 14**
 - **Microserviços .NET 8**
 - Queries complexas **SQL Server**
-- Suporte usuários internos/externos[file:16]
+- Suporte usuários internos/externos
 
 ### People Pro – *Desenvolvedor Full-Stack Júnior* (Mai/2025 – Out/2025)
 - App web **Câmara de Comércio Árabe Brasileira**
 - **-35% bundle size** (5.21MB → 3MB) via lazy loading
-- **MongoDB + Angular 14 + .NET 3/6** microserviços[file:16]
+- **MongoDB + Angular 14 + .NET 3/6** microserviços
 
 ### Grupo Safira – *Desenvolvedor Full-Stack Júnior* (Jun/2024 – Mar/2025)
 - Softwares escaláveis + **80%+ teste coverage**
 - **Projeto chave:** Automação propostas **Banco do Brasil** (**+19% conversão leads**)
-- Levantamento requisitos + análise negócios[file:16]
+- Levantamento requisitos + análise negócios
 
 ### Tech Mahindra – *Suporte Técnico* (2024)
 - Suporte **N1/N2**
@@ -49,7 +49,7 @@ Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries
 ### Safra – *Estagiário de TI* (Ago/2022 – Dez/2023)
 - **Angular JS/V8/V12 + .NET**
 - **-40% tempo carregamento** via Redis
-- **Módulo gestão clientes + REST APIs**[file:16]
+- **Módulo gestão clientes + REST APIs**
 
 ---
 
@@ -58,7 +58,7 @@ Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries
 - **Pós-Graduação Engenharia de Software** – UniAlphaville (2025)
 - **Pós-Graduação Full-Stack** – UniAlphaville (2025)
 - **Análise e Desenvolvimento de Sistemas** – SPTech (2023)
-- **Técnico Logística** – ETEC (2021)[file:16]
+- **Técnico Logística** – ETEC (2021)
 
 ---
 
@@ -67,13 +67,13 @@ Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries
 - **Node.js Testes Unitários/Integração** – Alura (2024)
 - **Jest Unit Testing** – Alura (2025)
 - **Angular Avançado** – Alura (2025)
-- **React + Python** – treinaWeb (2024)[file:16]
+- **React + Python** – treinaWeb (2024)
 
 ---
 
 ## Idiomas
 
-- **Inglês Avançado**[file:16]
+- **Inglês Avançado** - C1
 
 ---
 
