@@ -1,59 +1,89 @@
 # Icaro Menezes
 
-**Full-Stack Developer**  
-[LinkedIn](https://www.linkedin.com/in/icaro-dmenezes) • [GitHub](https://github.com/IcaroMenezes) • icarod.menezes@gmail.com
+**Desenvolvedor Full-Stack**  
+[LinkedIn](https://www.linkedin.com/in/icaro-dmenezes) • [GitHub](https://github.com/IcaroMenezes) • [icarod.menezes@gmail.com](mailto:icarod.menezes@gmail.com)
 
 ---
 
-## About Me
+## Sobre Mim
 
-I'm a passionate Full-Stack Developer focused on building scalable and maintainable web applications. I have experience working across the full development lifecycle—from requirements gathering and planning to coding, testing, and deployment.
+Desenvolvimento de aplicações web escaláveis e de fácil manutenção, com experiência em **.NET 6/.NET 8** no back-end e **Angular 8/14** no front-end. Gerenciamento de bancos de dados relacionais e não relacionais (**MongoDB, MySQL, SQL Server**). Desenvolvimento e integração de **REST APIs** com **NestJS**. Implementação de testes automatizados (**TDD**, 80%+ cobertura).[file:16]
 
-Currently expanding my skills in backend architecture and cloud infrastructure, I'm always looking for opportunities to collaborate on innovative projects and deliver impactful solutions.
+Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries complexas.
 
 ---
 
 ## Skills
 
-- **Frontend:** Angular (JS, V8, V12), TypeScript, React, JavaScript  
-- **Backend:** .NET, Java, Node.js, Python  
-- **Testing:** JEST, Cypress, Unit, Integration, and Performance testing  
-- **Databases:** MySQL, Firebase (NoSQL), Relational & Non-relational DBs  
-- **Cloud & DevOps:** Microsoft Azure, Amazon Web Services (AWS)  
-- **Other:** REST APIs, Git, Agile practices
+- **Frontend:** Angular (JS, V8, V12, 14), TypeScript, React, JavaScript
+- **Backend:** .NET (3, 6, 8), Java, Node.js, Python, NestJS
+- **Databases:** MongoDB, MySQL, SQL Server, Firebase (NoSQL), GCP
+- **Testing:** JEST, Cypress, Unitários/Integração/Performance, TDD
+- **Cloud:** Microsoft Azure, AWS, Redis
+- **DevOps:** Git, REST APIs, Lazy Loading, Otimização Performance
 
 ---
 
 ## Experience
 
-### Grupo Safira – *Full-Stack Developer Jr* (Jun 2024 – Mar 2025)
-- Built and maintained scalable software systems.
-- Developed automated testing for increased code reliability (80%+ coverage).
-- Key project: Automated proposal system in partnership with Banco do Brasil, resulting in a 19% lead conversion increase.
+### Avita Seguradora – *Desenvolvedor Full-Stack Júnior* (Out/2025 – Atualmente)
+- Novas soluções e manutenção com **Angular 14**
+- **Microserviços .NET 8**
+- Queries complexas **SQL Server**
+- Suporte usuários internos/externos[file:16]
 
-### Tech Mahindra – *Technical Support* (2024)
-- Provided L1 and L2 technical support.
-- Resolved incidents and maintained system stability with reduced response times.
+### People Pro – *Desenvolvedor Full-Stack Júnior* (Mai/2025 – Out/2025)
+- App web **Câmara de Comércio Árabe Brasileira**
+- **-35% bundle size** (5.21MB → 3MB) via lazy loading
+- **MongoDB + Angular 14 + .NET 3/6** microserviços[file:16]
 
-### Safra – *IT Intern* (Aug 2022 – Dec 2023)
-- Developed web applications using Angular and .NET.
-- Reduced front-end load times by 57% through code and API optimizations.
+### Grupo Safira – *Desenvolvedor Full-Stack Júnior* (Jun/2024 – Mar/2025)
+- Softwares escaláveis + **80%+ teste coverage**
+- **Projeto chave:** Automação propostas **Banco do Brasil** (**+19% conversão leads**)
+- Levantamento requisitos + análise negócios[file:16]
+
+### Tech Mahindra – *Suporte Técnico* (2024)
+- Suporte **N1/N2**
+- Redução tempo resposta incidentes[file:16]
+
+### Safra – *Estagiário de TI* (Ago/2022 – Dez/2023)
+- **Angular JS/V8/V12 + .NET**
+- **-40% tempo carregamento** via Redis
+- **Módulo gestão clientes + REST APIs**[file:16]
 
 ---
 
-## Education
+## Formação
 
-- **B.Sc. Systems Analysis and Development** – SPTech (2023)
-
----
-
-## Certifications
-
-- Node.js: Unit and Integration Testing – Alura (2024)
+- **Pós-Graduação Engenharia de Software** – UniAlphaville (2025)
+- **Pós-Graduação Full-Stack** – UniAlphaville (2025)
+- **Análise e Desenvolvimento de Sistemas** – SPTech (2023)
+- **Técnico Logística** – ETEC (2021)[file:16]
 
 ---
 
-## Let's Connect
+## Certificações
 
-Feel free to reach out or collaborate on something great!
+- **Node.js Testes Unitários/Integração** – Alura (2024)
+- **Jest Unit Testing** – Alura (2025)
+- **Angular Avançado** – Alura (2025)
+- **React + Python** – treinaWeb (2024)[file:16]
 
+---
+
+## Idiomas
+
+- **Inglês Avançado**[file:16]
+
+---
+
+## Conecte-se!
+
+🚀 Projetos inovadores
+💻 Arquitetura limpa
+⚡ Performance otimizada
+🌎 Oportunidades internacionais
+
+
+---
+*Pirituba, SP | (11) 92003-9717 | Jan/2026*
