@@ -44,7 +44,7 @@ Atualmente na **Avita Seguradora** expandindo skills em microserviços e queries
 
 ### Tech Mahindra – *Suporte Técnico* (2024)
 - Suporte **N1/N2**
-- Redução tempo resposta incidentes[file:16]
+- Redução tempo resposta incidentes
 
 ### Safra – *Estagiário de TI* (Ago/2022 – Dez/2023)
 - **Angular JS/V8/V12 + .NET**
